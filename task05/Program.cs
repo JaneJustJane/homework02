@@ -9,6 +9,8 @@ while (index <= n)
     Console.Write (index*index*index + " ");
     index=index+2;
 }
+
+// решение, если искать куб любого четного числа
 //int result = 1;
 //if (n%2==0)
 //{
