@@ -9,7 +9,6 @@ while (index <= n)
     Console.Write (index*index*index + " ");
     index=index+2;
 }
-
 //int result = 1;
 //if (n%2==0)
 //{
